@@ -1,0 +1,32 @@
+# dependencies
+node_modules
+.pnp
+.pnp.js
+
+# build
+dist
+dist-ssr
+*.local
+
+# env — never commit your real keys
+.env
+.env.*
+!.env.example
+
+# editor / OS
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+*.log
+npm-debug.log*
+
+# build output this project also produces
+dev-dist
+dist.zip
+
+# Cloudflare / Wrangler local state
+.wrangler
+
+# local tooling settings (machine-specific)
+.claude
