@@ -11,6 +11,20 @@ native Windows POS in a separate repository, against this same Supabase project.
 
 ---
 
+## What it looks like
+
+| The basket, before anything has been seen |
+|---|
+| <img src="docs/screenshots/cart-estimate.png" alt="Basket showing estimated prices"> |
+| Prices here are an **estimate** and the page says so, because what a garment costs depends on what is on it. |
+
+| Tracking an order | Pricing it after inspection |
+|---|---|
+| <img src="docs/screenshots/order-tracking.png" alt="Order tracking timeline"> | <img src="docs/screenshots/staff-final-pricing.png" alt="Staff screen for final pricing"> |
+| The customer follows the order through the shop in the same six steps the staff screen uses. | Staff adjust the rate of a single line; the original estimate stays on screen beside the new total, and only then does the invoice stop saying ESTIMATE. |
+
+---
+
 ## What it does
 
 **For the customer**
