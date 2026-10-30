@@ -6,8 +6,24 @@ downloads the invoice, and where staff price and run those orders.
 
 **React 18 · Vite · Tailwind · React Router · Supabase (Auth, Postgres, RLS) · PWA**
 
-Live at [linenluxelaundry.com](https://linenluxelaundry.com). The counter runs on a
-native Windows POS in a separate repository, against this same Supabase project.
+### 🌐 [www.linenluxelaundry.com](https://www.linenluxelaundry.com)
+
+The counter runs on a native Windows POS in a separate repository, against this
+same Supabase project.
+
+---
+
+## Where customers arrive
+
+The shop's storefront. **Book a Pickup** is what opens the app in this repository,
+so everything below begins on one of these pages.
+
+<img src="docs/screenshots/site-home.jpg" alt="LinenLuxe Laundry home page">
+
+| What the shop does | Booking without an account |
+|---|---|
+| <img src="docs/screenshots/site-services.png" alt="Services section"> | <img src="docs/screenshots/site-booking.png" alt="Pickup request form"> |
+| The services, each leading to the same basket. | A pickup can also be requested straight from the site, or over WhatsApp — not everyone wants to sign up first. |
 
 ---
 
